@@ -1,1 +1,1 @@
-# Python
+# Python lessons and homeworks 
